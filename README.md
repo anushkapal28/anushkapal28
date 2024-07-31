@@ -1,4 +1,4 @@
-![logo](https://github.com/anushkapal28/anushkapal28/blob/main/background.jpg)
+
 <h1 align="center">Hi 👋, I'm Anushka Pal</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align = "right" alt="code" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
