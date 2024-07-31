@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anushka Pal</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 <img align = "right" alt="code" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkpal28&label=Profile%20views&color=0e75b6&style=flat" alt="anushkpal28" /> </p>
